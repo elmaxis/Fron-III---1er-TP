@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card{
+    font-weight: bold;
+    position: absolute;
+    align-items: center;
+    top: 1025px;
+    background-color:  #5D6D7E;
+    border-radius: 10px;
+    margin-top: -30px;
+    padding: 20px;
+    width: 20rem;
+    height: 16%;
+    box-shadow: 0px 0px 10px 10px rgba(0,0,0);
+    text-align: center;
+    line-height: 40px;    
+    
+}
+
+.card h1{
+    font-size: 20px;
+}
+
+.accion{
+    font-size: 20px;
+    padding: 15px;
+    font-weight: bold;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0);
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 30px;
+    color: white;
+}
