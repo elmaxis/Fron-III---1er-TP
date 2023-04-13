@@ -8,30 +8,37 @@
     font-weight: bold;
     position: absolute;
     align-items: center;
-    top: 1025px;
+    top: 750px;
     background-color:  #5D6D7E;
     border-radius: 10px;
-    margin-top: -30px;
-    padding: 20px;
+    margin-bottom: 20px;
     width: 20rem;
-    height: 16%;
+    height: 160px;
     box-shadow: 0px 0px 10px 10px rgba(0,0,0);
     text-align: center;
-    line-height: 40px;    
+    line-height: 40px;  
+    display: row;  
+    text-align: center;
     
 }
 
 .card h1{
     font-size: 20px;
-}
+    height: 30px;
+    padding-top: 4%;
+    }
 
 .accion{
     font-size: 20px;
-    padding: 15px;
+    padding: 20px;
     font-weight: bold;
     box-shadow: 0px 0px 10px 0px rgba(0,0,0);
     border-radius: 10px;
-    text-align: center;
-    margin-top: 30px;
+    margin-top: 10px;
+    text-align: center;    
+    display: row;
+    align-items: center;
+    height: 70px;
     color: white;
+    background-color: #9198a0;
 }
